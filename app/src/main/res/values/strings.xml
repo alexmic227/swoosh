@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Swoosh</string>
+    <string name="BackgroundImage">BackgroundImage</string>
+    <string name="go_all_in">GO ALL IN</string>
+    <string name="ThisIsTheLogo">LogoImageDescription</string>
+    <string name="logoimagedescription">logoimagedescription</string>
+    <string name="on_going_all_out">On Going All Out</string>
+    <string name="txt_MoreDetails">More Details will be posted here. This may be a multiline text field </string>
+    <string name="get_started">GET STARTED</string>
+</resources>
